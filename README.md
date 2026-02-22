@@ -134,7 +134,7 @@ Raw datasets and Tableau workbook are intentionally excluded.
 ---
 
 #  Repository Structure
-
+```
 zomato-data-analysis/
 │
 ├── README.md
@@ -147,7 +147,7 @@ zomato-data-analysis/
 ├── executive_overview.png
 ├── customer_intelligence.png
 └── restaurant_strategy.png
-
+```
 
 ---
 
